@@ -103,7 +103,7 @@
    
    document.addEventListener('DOMContentLoaded', () => {
        const pageSequence = [
-        "Cinderellaa.html",
+        "index.html",
         "Cd2.html",
         "Cd3.html",
         "Cd4.html",
